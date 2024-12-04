@@ -1,0 +1,15 @@
+{
+  "ProjectName": "sero",
+  "GameRoot": "D:\\SteamLibrary\\steamapps\\common\\ELDEN RING\\Game",
+  "GameType": 8,
+  "PinnedParams": [
+    "AtkParam_Pc",
+    "EquipParamWeapon",
+    "SpEffectParam"
+  ],
+  "PinnedRows": {},
+  "PinnedFields": {},
+  "UseLooseParams": false,
+  "PartialParams": false,
+  "LastFmgLanguageUsed": ""
+}
