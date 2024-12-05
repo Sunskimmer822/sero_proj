@@ -14,7 +14,8 @@
 
 
 
-
+Physical: STR + DEX | Magic: INT + FTH | Fire: FTH + INT | Lightning: DEX | Holy: FTH
+Physical: DEX + FAI | Magic: DEX + FAI | Fire: DEX + FAI | Lightning: DEX + FAI | Holy: DEX + FAI | Replacement Correction 15
 Physical: STR + DEX | Magic: INT | Fire: FTH | Lightning: DEX | Holy: FTH
 Physical: STR + DEX | Magic: INT | Fire: STR | Lightning: DEX | Holy: FTH
 Physical: STR + DEX + ARC | Magic: INT | Fire: FTH | Lightning: DEX | Holy: FTH

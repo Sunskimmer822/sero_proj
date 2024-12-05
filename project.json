@@ -5,7 +5,10 @@
   "PinnedParams": [
     "AtkParam_Pc",
     "EquipParamWeapon",
-    "SpEffectParam"
+    "SpEffectParam",
+    "AttackElementCorrectParam",
+    "Bullet",
+    "SwordArtsParam"
   ],
   "PinnedRows": {},
   "PinnedFields": {},

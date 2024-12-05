@@ -10840,26 +10840,26 @@ Thrusting Shield - Default Attack
 
 
 
+Moon-and-Fire Stance Light #1 MP
+Moon-and-Fire Stance Light #1 MP
+Moon-and-Fire Stance Heavy #1 MP
+Moon-and-Fire Stance Heavy #1 MP
+Moon-and-Fire Stance Heavy #3 MP
+Moon-and-Fire Stance Light #1 No MP
+Moon-and-Fire Stance Light #1 No MP
+Moon-and-Fire Stance Heavy #1 No MP
+Moon-and-Fire Stance Heavy #1 No MP
+Moon-and-Fire Stance Heavy #3 No MP
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Moon-and-Fire Stance Heavy Spin MP
+Moon-and-Fire Stance Heavy Spin MP
+Moon-and-Fire Stance Heavy Spin MP
+Moon-and-Fire Stance Heavy Spin No MP
+Moon-and-Fire Stance Heavy Spin No MP
+Moon-and-Fire Stance Heavy Spin No MP
 Verdigris Greatshield - Attack
 Verdigris Greatshield - Attack
 Verdigris Greatshield - Attack
