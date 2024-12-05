@@ -1,6 +1,6 @@
 {
   "ProjectName": "sero",
-  "GameRoot": "D:\\SteamLibrary\\steamapps\\common\\ELDEN RING\\Game",
+  "GameRoot": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ELDEN RING\\Game",
   "GameType": 8,
   "PinnedParams": [
     "AtkParam_Pc",
@@ -11,5 +11,5 @@
   "PinnedFields": {},
   "UseLooseParams": false,
   "PartialParams": false,
-  "LastFmgLanguageUsed": ""
+  "LastFmgLanguageUsed": "engus"
 }
