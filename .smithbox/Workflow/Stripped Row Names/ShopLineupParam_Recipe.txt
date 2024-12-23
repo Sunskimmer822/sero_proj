@@ -193,3 +193,4 @@ Bone Ballista Bolt - Nomadic Warrior's Cookbook [13]
 [sero] Smithing Stone [6] - Default
 [sero] Smithing Stone [7] - Default
 [sero] Smithing Stone [8] - Default
+[sero] Golden Rune [13]

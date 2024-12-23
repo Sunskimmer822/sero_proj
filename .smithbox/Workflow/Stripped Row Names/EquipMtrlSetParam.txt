@@ -135,7 +135,7 @@ Ancient Dragon Smithing Stone * 1
 [sero] Smithing Stone [5] * 2
 [sero] Smithing Stone [6] * 2
 [sero] Smithing Stone [7] * 2
-
+[sero] Erdleaf Flower * 4
 
 
 

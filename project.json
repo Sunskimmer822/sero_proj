@@ -8,7 +8,9 @@
     "SpEffectParam",
     "AttackElementCorrectParam",
     "Bullet",
-    "SwordArtsParam"
+    "SwordArtsParam",
+    "ShopLineupParam_Recipe",
+    "EquipMtrlSetParam"
   ],
   "PinnedRows": {},
   "PinnedFields": {},
