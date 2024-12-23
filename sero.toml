@@ -1,0 +1,18 @@
+[modengine]
+debug = true
+
+external_dlls = []
+
+# Mod loader configuration
+[extension.mod_loader]
+enabled = true
+
+# Not currently supported for Elden Ring
+loose_params = false
+
+mods = [
+    { enabled = true, name = "sero", path = "." }
+]
+
+[extension.scylla_hide]
+enabled = false
