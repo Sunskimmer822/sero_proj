@@ -1,28 +1,28 @@
 None
+Smithing Stone [1] * 1
 Smithing Stone [1] * 2
-Smithing Stone [1] * 4
-Smithing Stone [1] * 6
+Smithing Stone [1] * 3
+Smithing Stone [2] * 1
 Smithing Stone [2] * 2
-Smithing Stone [2] * 4
-Smithing Stone [2] * 6
+Smithing Stone [2] * 3
+Smithing Stone [3] * 1
 Smithing Stone [3] * 2
-Smithing Stone [3] * 4
-Smithing Stone [3] * 6
+Smithing Stone [3] * 3
+Smithing Stone [4] * 1
 Smithing Stone [4] * 2
-Smithing Stone [4] * 4
-Smithing Stone [4] * 6
+Smithing Stone [4] * 3
+Smithing Stone [5] * 1
 Smithing Stone [5] * 2
-Smithing Stone [5] * 4
-Smithing Stone [5] * 6
+Smithing Stone [5] * 3
+Smithing Stone [6] * 1
 Smithing Stone [6] * 2
-Smithing Stone [6] * 4
-Smithing Stone [6] * 6
+Smithing Stone [6] * 3
+Smithing Stone [7] * 1
 Smithing Stone [7] * 2
-Smithing Stone [7] * 4
-Smithing Stone [7] * 6
+Smithing Stone [7] * 3
+Smithing Stone [8] * 1
 Smithing Stone [8] * 2
-Smithing Stone [8] * 4
-Smithing Stone [8] * 6
+Smithing Stone [8] * 3
 Ancient Dragon Smithing Stone * 1
 
 
@@ -128,13 +128,13 @@ Ancient Dragon Smithing Stone * 1
 
 
 
-
-
-
-
-
-
-
+[sero] Smithing Stone [1] * 2
+[sero] Smithing Stone [2] * 2
+[sero] Smithing Stone [3] * 2
+[sero] Smithing Stone [4] * 2
+[sero] Smithing Stone [5] * 2
+[sero] Smithing Stone [6] * 2
+[sero] Smithing Stone [7] * 2
 
 
 
