@@ -1,7 +1,7 @@
 [modengine]
 debug = true
 
-external_dlls = []
+external_dlls = ["external_dll/*.dll"]
 
 # Mod loader configuration
 [extension.mod_loader]

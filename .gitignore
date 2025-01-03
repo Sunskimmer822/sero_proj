@@ -1,3 +1,10 @@
+#ignore user-added dll mods
+external_dll/*
 
+#ignore dark souls animation studio computer-specific files
 chr/_DSAS_WORKSPACE.json
 project.json
+
+#ignore log files
+lods/*
+modengine2/logs/*
