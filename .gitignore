@@ -6,5 +6,5 @@ chr/_DSAS_WORKSPACE.json
 project.json
 
 #ignore log files
-lods/*
+logs/*
 modengine2/logs/*
